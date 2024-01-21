@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_for_facebook">Sign up for Facebook</string>
+    <string name="help_center">Help Center</string>
+    <string name="facebook">facebook</string>
+
+    <string name="unblast">Unblast</string>
+    <string name="_2_hrs">2 hrs.</string>
+    <string name="post">Buckle up, because change is coming to WordPress\nhttp://unblast.com/color-schemes</string>
+    <string name="_1_share">1 Share</string>
+    <string name="_12">12</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+</resources>
